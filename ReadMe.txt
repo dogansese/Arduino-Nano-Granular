@@ -1,0 +1,13 @@
+This pcb design project is based on Peter Knight's Arduino Nano Synth code and Notes and Volts Line Output upgrade. 
+You can find all components needed in Schematic and .xls file. It has 2 option to power the device. 
+It can be  power up by directly arduino usb socket or power adaptor socket by using a 9v adaptor. 
+Please pay attention if your adaptors pinout should be right this; TIP : (-), SLEVE: (+). 
+And do not plug the adaptor and usb power at the say time. That might burn some components on arduino nano. 
+
+The pcb designed as copper areas for GND and +5V. I designed this pcb on  https://easyeda.com. 
+Thanks to https:/jlcpcb.com to create https://easyeda.com/ where you can design pcbs online or its desktop app.  
+Thanks to Notes&Volts for easy tutorial videos about this project. 
+You can download the code by clicking the link below and reading the article.
+
+https://www.notesandvolts.com/2014/07/build-auduino-granular-synth-part-1.html
+https://www.youtube.com/watch?v=NTob27lOpcU
